@@ -9,7 +9,7 @@ body{
     width: 80%;
 }
 
-p{
+p, .didascalia{
     text-align: left;
     font-family: 'Open Sans', sans-serif;
 }
@@ -20,4 +20,15 @@ h1{
     font-family:'Gloock', serif;
 }
 
+.immagine img{
+    margin: 20px 0px;
+    width: 100%;
+}
 
+p{
+    font-size: 21px;
+}
+
+.didascalia{
+    font-size: 16px;
+}
